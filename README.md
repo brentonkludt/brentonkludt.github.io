@@ -2,8 +2,8 @@
 
 from https://raw.githubusercontent.com/arkime/arkime/main/README.md
 
-# Arkime
-> Arkime (formerly Moloch) is a large scale, open source, indexed packet capture and search system.
+# Events by Param
+> A web-based application designed for small to medium-scale event planning.
 
 ![banner](https://raw.githubusercontent.com/arkime/arkime/main/assets/Arkime_Logo_FullGradientBlack@3x.png)
 
