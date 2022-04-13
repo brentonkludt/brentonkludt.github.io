@@ -1,13 +1,11 @@
 # brentonkludt.github.io
 
-from https://raw.githubusercontent.com/arkime/arkime/main/README.md
-
 # Events by Param
 > A web-based application designed for small to medium-scale event planning.
 > 
 ![banner](https://github.com/brentonkludt/brentonkludt.github.io/blob/main/Picture1.png)
 
-Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access. An intuitive and simple web interface is provided for PCAP browsing, searching, and exporting. Arkime exposes APIs which allow for PCAP data and JSON formatted session data to be downloaded and consumed directly. Arkime stores and exports all packets in standard PCAP format, allowing you to also use your favorite PCAP ingesting tools, such as wireshark, during your analysis workflow.
+Events by Param was created by a team of eight crackpot computer science majors at Sacramento State. Their due-diligence, creativity, teamwork and raw effort gave rise to a website created for an event planning buisness, headed by Param Lastname. The website was based on the node.js framework, using the 
 
 Arkime is built to be deployed across many systems and can scale to handle tens of gigabits/sec of traffic. PCAP retention is based on available sensor disk space. Metadata retention is based on the Elasticsearch cluster scale. Both can be increased at anytime and are under your complete control.
 
