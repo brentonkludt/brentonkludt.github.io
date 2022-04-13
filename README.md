@@ -4,6 +4,8 @@ from https://raw.githubusercontent.com/arkime/arkime/main/README.md
 
 # Events by Param
 > A web-based application designed for small to medium-scale event planning.
+> 
+![banner](https://github.com/brentonkludt/brentonkludt.github.io/blob/main/Picture1.png)
 
 ![alt text](https://github.com/brentonkludt/brentonkludt.github.io/blob/image.jpg?raw=true)
 ![banner](https://raw.githubusercontent.com/arkime/arkime/main/assets/Arkime_Logo_FullGradientBlack@3x.png)
