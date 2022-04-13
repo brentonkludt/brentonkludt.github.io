@@ -8,8 +8,6 @@
   <img src="https://github.com/brentonkludt/brentonkludt.github.io/blob/main/Picture1.png" alt="Events by Param"/>
 </p>
 
-//![banner](https://github.com/brentonkludt/brentonkludt.github.io/blob/main/Picture1.png)
-
 Events by Param was created by a team of eight crackpot computer science majors at Sacramento State. Their due-diligence, creativity, teamwork and raw effort gave rise to a website created for an event planning buisness, headed by Param Lastname. The website was based on the node.js framework, using the 
 
 Arkime is built to be deployed across many systems and can scale to handle tens of gigabits/sec of traffic. PCAP retention is based on available sensor disk space. Metadata retention is based on the Elasticsearch cluster scale. Both can be increased at anytime and are under your complete control.
