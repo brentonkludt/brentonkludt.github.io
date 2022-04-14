@@ -29,7 +29,7 @@ Events by Param is a website created by a senior project team at Sacramento Stat
 
 Most users can access the website at (This link)
 
-To use the website, one may refer to https://docs.google.com/document/d/1K9ipi080eY4duLd1-yGta8HZOTYEXvMA/edit?usp=sharing&ouid=104095110744449469183&rtpof=true&sd=true in order to download the user manual. Everything is included within the manual, including user, admin and employee appraoches to using the website, and a comprehensive overview of every route. 
+To use the website, one may refer to https://drive.google.com/file/d/1fCdQgh2mvE0vEz02Y7U1S4ZHntnbQFob/view?usp=sharing in order to download the user manual. Everything is included within the manual, including user, admin and employee appraoches to using the website, and a comprehensive overview of every route. 
 
 
 ## HelpLine
