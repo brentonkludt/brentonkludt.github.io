@@ -21,9 +21,9 @@ Arkime is built to be deployed across many systems and can scale to handle tens 
 
 - [Background](#background)
 - [Usage](#Usage)
-- [Helpline] (#Help Line)
+- [Helpline](#Help Line)
 - [Contribute](#Contribute)
-- [Maintainers] (#Maintainers)
+- [Maintainers](#Maintainers)
 - 
 ## Background
 
