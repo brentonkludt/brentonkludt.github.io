@@ -21,10 +21,9 @@ Arkime is built to be deployed across many systems and can scale to handle tens 
 
 - [Background](#background)
 - [Usage](#Usage)
-- [Helpline](#Help Line)
+- [HelpLine](#HelpLine)
 - [Contribute](#Contribute)
 - [Maintainers](#Maintainers)
-- 
 ## Background
 
 Arkime was created to replace commercial full packet systems at AOL in 2012. By having complete control of hardware and costs, we found we could deploy full packet capture across all our networks for the same cost as just one network using a commercial tool.
@@ -53,7 +52,7 @@ For advanced users, you can build Arkime yourself:
 * `make config` - performs an initial Arkime configuration
 
 
-## Help Line
+## HelpLine
 
 Most of the system configuration will take place in the `/data/arkime/etc/config.ini` file.  The variables are documented in our [Settings Wiki page](https://arkime.com/settings).
 
